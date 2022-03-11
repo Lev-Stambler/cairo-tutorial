@@ -54,7 +54,7 @@
         "0x480680017fff8000",
         "0x3",
         "0x1104800180018000",
-        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffe5",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffd7",
         "0x480a7ffd7fff8000",
         "0x48127ffe7fff8000",
         "0x1104800180018000",
@@ -920,12 +920,12 @@
                     },
                     "parent_location": [
                         {
-                            "end_col": 35,
+                            "end_col": 34,
                             "end_line": 30,
                             "input_file": {
                                 "filename": "array_sum.cairo"
                             },
-                            "start_col": 32,
+                            "start_col": 31,
                             "start_line": 30
                         },
                         "While expanding the reference 'ptr' in:"
@@ -954,12 +954,12 @@
                 },
                 "hints": [],
                 "inst": {
-                    "end_col": 52,
+                    "end_col": 51,
                     "end_line": 30,
                     "input_file": {
                         "filename": "array_sum.cairo"
                     },
-                    "start_col": 42,
+                    "start_col": 41,
                     "start_line": 30
                 }
             },
@@ -983,7 +983,7 @@
                 },
                 "hints": [],
                 "inst": {
-                    "end_col": 53,
+                    "end_col": 52,
                     "end_line": 30,
                     "input_file": {
                         "filename": "array_sum.cairo"
